@@ -13,7 +13,6 @@ A simple C++ library for sending messages and embeds to a Discord channel using 
 ## Requirements
 
 - Windows OS
-- WinHTTP Library (`winhttp.lib`)
 
 ## Installation
 
@@ -21,8 +20,7 @@ A simple C++ library for sending messages and embeds to a Discord channel using 
     ```bash
     git clone https://github.com/NullBulgeOfficial/Discord-C-.git
     ```
-2. Include the `Discord.h` and `Discord.cpp` files in your project.
-3. Link against the `winhttp.lib` library.
+2. Include the `Discord.h` in your project.
 
 ## Usage
 
