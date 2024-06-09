@@ -11,7 +11,7 @@
                                                                                                                               
 ```
 
-# Discord Webhook C++ Library
+# Discord Webhook C++ Library | Requires C++ 17
 
 A simple C++ library for sending messages and embeds to a Discord channel using webhooks.
 
